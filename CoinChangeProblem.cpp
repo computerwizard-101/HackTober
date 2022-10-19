@@ -54,5 +54,6 @@ int main()
   int amount = 4;
   vector<int> coin = {1,2,3};
   cout<<solve(amount,coin)<<endl;
+  //Hello my first commit
 
 }
