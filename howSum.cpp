@@ -4,8 +4,7 @@ using namespace std;
 vector<int> dp(int n , vector<int> &m)
 {
     //Insert the code here
-    
-
+    // This section contains a dp code
 }
 int main()
 {
